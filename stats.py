@@ -1,5 +1,6 @@
 #stats.pi
 import matplotlib.pyplot as plt
+import pytest
 
 try:
   fhand=open('StudentExercise.csv')
