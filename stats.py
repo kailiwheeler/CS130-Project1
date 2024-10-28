@@ -54,5 +54,6 @@ print("average hours:",average(hours))
 print(f"percent above the average: {prop_above(hours)}%")
 print("median hours:",median(hours))
 
-
+#the average was higher than the median by about 1 hour, this means that there is most likely a couple really high numbers in the data
+#this is also show in the histogram plot, graph skewed left   
     
